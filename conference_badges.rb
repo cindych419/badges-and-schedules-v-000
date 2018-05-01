@@ -11,3 +11,5 @@ end
 
 def assign_rooms(attendees, index)
   attendees.each_with_index {|names,index| puts "Hello, #{names}! You'll be assigned to room #{index}!}
+end
+end
